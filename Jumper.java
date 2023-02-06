@@ -1,4 +1,4 @@
-ackage SystemDesign.SnakeAndLadder;
+package SystemDesign.SnakeAndLadder;
 
 import lombok.EqualsAndHashCode;
 import lombok.Getter;
